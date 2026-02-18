@@ -26,7 +26,7 @@ const Hero = () => {
           <span className="text-cyan-200"> and experiences. </span>
         </h1>
         <h2 className="mt-5 text-sm px-2 text-center sm:text-2xl font-medium flex items-center">
-          Hi! I'm Arjun Singh - A passionate{" "}
+          Hi! I am Arjun Singh | A passionate
           <span className="text-cyan-200 font-bold ml-2">
             <TypeAnimation
               sequence={[
